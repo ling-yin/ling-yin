@@ -10,4 +10,4 @@ ____
 
 What I'm up to 
 - Currently doing a summer internship 
-- Doing an online (https://www.coursera.org/learn/machine-learning/home/welcome "Machine Learning") Course
+- Doing an online [Machine Learning](https://www.coursera.org/learn/machine-learning/home/welcome) Course
