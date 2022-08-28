@@ -3,7 +3,7 @@
 My name is Ling Yin 
 
 ## About Me
-- Currently 2nd year university student studying Computer Science 
-- Programming Languages: C, Python, Java
+- Currently 3rd year university student studying Computer Science 
+- Programming Languages: Typescript, Javascript, Python, C/C++, Java
 
 
