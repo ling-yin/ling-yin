@@ -1,9 +1,10 @@
 # Hello there! 👋
 
-My name is Ling Yin 
+My name is Ling Yin. I am currently in my 3rd year of University, studying Computer Science.
 
 ## About Me
-- Currently 3rd year university student studying Computer Science 
 - Programming Languages: Typescript, Javascript, Python, C/C++, Java
+- Cloud Technologies: AWS EC2 
+- Backend Framework: NodeJS, ExpressJs 
 
 
