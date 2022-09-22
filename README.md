@@ -23,3 +23,7 @@ My name is Ling Yin. I am currently in my 3rd year of University, studying Compu
 
 ## Design 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ling-yin&count_private=true&show_icons=true&include_all_commits=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ling-yin&hide=TeX&layout=compact)
