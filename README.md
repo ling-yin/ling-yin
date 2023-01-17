@@ -12,12 +12,5 @@ My name is Ling Yin. I am currently in my 3rd year of University, studying Compu
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## GitHub Statistics 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ling-yin&count_private=true&show_icons=true&include_all_commits=true)  
-
-## Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ling-yin)
-
-
 ### Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-Ling_Yin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ling-yin-892000233/)](https://www.linkedin.com/in/ling-yin-892000233/)
