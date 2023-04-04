@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-My name is Ling Yin. I am currently in my 3rd year of University, studying Computer Science.
+My name is Ling Yin. I am currently in my 3rd year of University, studying Computer Science with an intention to pursue a specialisation in Cyber Security
 
 ![image](https://user-images.githubusercontent.com/64789716/191813332-ddde4d4a-5fe0-495b-b087-8f182238f3ee.png)
 
